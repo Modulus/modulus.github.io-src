@@ -1,6 +1,9 @@
-Title: Tools for Windows
-Date: 2017-02-20 20:52
+Title: Tools for Windows (Part 2)
+Date: 2017-02-20 20:32
 Category: Windows
+Tags: toos, putty, winscp, Windows
+Slug: windows-tools
+Summary: List of handy tools for Windows users
 
 # Recommended tools for Windows plattform
 Tool    |  Description

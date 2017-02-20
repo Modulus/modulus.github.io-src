@@ -1,6 +1,9 @@
-Title: How to use putty
-Date: 2017-02-20 20:52
+Title: How to use putty (Part 3)
+Date: 2017-02-20 20:02
 Category: Windows
+Tags: ssh, putty, Windows
+Slug: win-putty-guide
+Summary: Guide for putty on Windows
 
 # *Open putty and enter the ip adress like so*
 
