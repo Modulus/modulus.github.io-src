@@ -7,3 +7,4 @@ Summary: Main Windows guide page
 
 * [List of tools]({filename}/win/tools.md)
 * [How to use putty]({filename}/win/putty.md)
+* [How to use winscp]({filename}/win/winscp.md)

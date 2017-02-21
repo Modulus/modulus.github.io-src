@@ -7,4 +7,7 @@ Category: macOS
 ssh Aluminum@192.168.1.93
 ```
 
+That's it, you should know what to do you :P
+More info coming later.
+
 [Home]({filename}/index.md)
