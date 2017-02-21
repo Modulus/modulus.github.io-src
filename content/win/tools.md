@@ -6,7 +6,7 @@ Slug: windows-tools
 Summary: List of handy tools for Windows users
 
 Below are some of the recommended tools needed to complete this workshop.
-If you have some preffered tools, please feel free to use these.
+If you have some preferred tools, please feel free to use these.
 
 You need to be able to ssh into the machine you have been given access to, given
 the ip address, username and password that has been provided to you.
