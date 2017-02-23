@@ -10,5 +10,5 @@ Click the corresponding guide to se how to use the environment.
 ## Here are usage guides for macOS and Microsoft Windows
 Plattform | Guide
 ----------|------------------------------------
-macOS     | [Guide]({filename}/mac.md)
+macOS     | [Guide]({filename}/mac/index.md)
 Windows   | [Guide]({filename}/win/index.md)

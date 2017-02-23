@@ -21,6 +21,7 @@ WinSCP  | Award winning SFTP, SCP and FTP(s) client for windows
 * [Download WinSCP](https://winscp.net/eng/index.php)
 
 
-[Home]({filename}../index.md)
-[How to use putty]({filename}/win/putty.md)
+[Home]({filename}/index.md) |
+[Home win]({filename}/win/index.md) |
+[How to use putty]({filename}/win/putty.md) |
 [How to use winscp]({filename}/win/winscp.md)

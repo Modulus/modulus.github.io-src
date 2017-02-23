@@ -10,4 +10,5 @@ Summary: WinSCP usage guide for windows plattform
 Coming soon...
 
 
-[Home]({filename}../index.md)
+[Home]({filename}/index.md) | 
+[Home win]({filename}/win/index.md)
