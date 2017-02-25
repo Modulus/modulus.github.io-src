@@ -28,4 +28,5 @@ Summary: Guide for putty on Windows
 ![Putty login success](/images/win/putty-login-success.PNG)
 
 
-[Home]({filename}../index.md)
+[Home]({filename}/index.md) | 
+[Home Win]({filename}/win/index.md)
