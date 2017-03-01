@@ -1,7 +1,7 @@
 Title: SSH guide for macOS (Part 3)
 Date: 2017-02-22 20:52
 Category: macOS
-Tags: toos, ssh, macOS, mac
+Tags: tools, ssh, macOS, mac
 Slug: ssh_mac
 Summary: SSH usage guide for macOS plattform
 

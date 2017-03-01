@@ -19,7 +19,7 @@ machine and overwrite the corresponding file there.
 
 ## *Enter ip address and username/password*
 
-![WinSCP credentials](/images/win/winscp/credentials.PNG)
+![WinSCP credentials](/images/win/winscp/credentials.png)
 
 ## *Accecpt the host key of the remote host*
 
@@ -27,28 +27,28 @@ machine and overwrite the corresponding file there.
 
 ## *You are now logged in and ready to edit files*
 
-![WinSCP login success](/images/win/winscp/loggedin.PNG)
+![WinSCP login success](/images/win/winscp/loggedin.png)
 
 
 ## *Navigate to the file you want to edit, and right click it*
 
-![WinSCP download-dialog](/images/win/winscp/download-dialog.PNG)
+![WinSCP download-dialog](/images/win/winscp/download-dialog.png)
 
 ## *Select the folder for you file*
 
-![WinSCP download](/images/win/winscp/download.PNG)
+![WinSCP download](/images/win/winscp/download.png)
 
-## *Navigate to the file you want to edit, and right click it*
+## *Now the file is downloaded and ready for editing*
 
-![WinSCP downloaded](/images/win/winscp/downloaded.PNG)
+![WinSCP downloaded](/images/win/winscp/downloaded.png)
 
 ## *Once downloaded right click the file locally*
 
-![WinSCP downloaded](/images/win/winscp/edit-dialog.PNG)
+![WinSCP downloaded](/images/win/winscp/edit-dialog.png)
 
 ## *Edit the file, and save it*
 
-![WinSCP downloaded](/images/win/winscp/editor-open.PNG)
+![WinSCP downloaded](/images/win/winscp/editor-open.png)
 
 ## *Right click the file and choose "upload"*
 
@@ -56,11 +56,11 @@ machine and overwrite the corresponding file there.
 
 ## *Select the target folder for your upload*
 
-![WinSCP downloaded](/images/win/winscp/upload-dialog2.PNG)
+![WinSCP downloaded](/images/win/winscp/upload-dialog2.png)
 
 ## *When asked to overwrite remote file, click "yes"*
 
-![WinSCP downloaded](/images/win/winscp/overwrite-dialog.PNG)
+![WinSCP downloaded](/images/win/winscp/overwrite-dialog.pngd)
 
 You are now done :)
 
