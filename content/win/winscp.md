@@ -60,7 +60,7 @@ machine and overwrite the corresponding file there.
 
 ## *When asked to overwrite remote file, click "yes"*
 
-![WinSCP downloaded](/images/win/winscp/overwrite-dialog.pngd)
+![WinSCP downloaded](/images/win/winscp/overwrite-dialog.png)
 
 You are now done :)
 

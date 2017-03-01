@@ -7,26 +7,26 @@ Summary: Guide for putty on Windows
 
 # *Open putty and enter the ip adress like so*
 
-![Putty Dialog](/images/win/putty-dialog.PNG)
+![Putty Dialog](/images/win/putty-dialog.png)
 
 
 ## *Click open, and enter your username*
 
-![Putty username](/images/win/putty-login.PNG)
+![Putty username](/images/win/putty-login.png)
 
 ## *Enter your password*
 **Your password will not be shown in the prompt when you enter it!**
 
-![Putty password](/images/win/putty-password.PNG)
+![Putty password](/images/win/putty-password.png)
 
 ## *Press [Enter]*
 
-![Putty login](/images/win/putty-login.PNG)
+![Putty login](/images/win/putty-login.png)
 
 ## *You are now logged in and ready for the workshop*
 
-![Putty login success](/images/win/putty-login-success.PNG)
+![Putty login success](/images/win/putty-login-success.png)
 
 
-[Home]({filename}/index.md) | 
+[Home]({filename}/index.md) |
 [Home Win]({filename}/win/index.md)
