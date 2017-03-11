@@ -1,4 +1,4 @@
-Title: Tools for macOS (Part 1)
+Title: Tools for macOS 
 Date: 2017-02-20 20:32
 Category: Windows
 Tags: tools, mac, ssh, editing

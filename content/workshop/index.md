@@ -1,6 +1,6 @@
-Title: Tools for Windows (Part 1)
+Title: Workshop guide
 Date: 2017-03-11 12:26
-Category: Windows
+Category: Workshop
 Tags: workshop, docker, docker-compose, compose, python, jupyter, kafkacat
 Slug: workshop-index
 Summary: Workshop guide, here we show you how to use docker-compse, jupyter and kafkacat

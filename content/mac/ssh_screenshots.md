@@ -1,4 +1,4 @@
-Title: SSH guide for macOS (Part 2)
+Title: SSH guide for macOS 
 Date: 2017-02-22 20:52
 Category: macOS
 Tags: tools, ssh, macOS, mac

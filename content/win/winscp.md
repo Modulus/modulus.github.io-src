@@ -1,4 +1,4 @@
-Title: How to use WinSCP (Part 4)
+Title: How to use WinSCP 
 Date: 2017-02-21 22:52
 Category: Windows
 Tags: tools, putty, winscp, Windows

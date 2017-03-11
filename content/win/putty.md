@@ -1,4 +1,4 @@
-Title: How to use putty (Part 3)
+Title: How to use putty 
 Date: 2017-02-20 20:02
 Category: Windows
 Tags: ssh, putty, Windows, tools

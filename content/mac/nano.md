@@ -1,4 +1,4 @@
-Title: Environment setup for macOS (Part 3)
+Title: Environment setup for macOS 
 Date: 2017-02-22 20:52
 Category: macOS
 Tags: ssh, nano, mac, tools

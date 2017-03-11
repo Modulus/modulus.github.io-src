@@ -1,4 +1,4 @@
-Title: Tools for Windows (Part 1)
+Title: Tools for Windows
 Date: 2017-02-20 20:32
 Category: Windows
 Tags: tools, putty, winscp, Windows
