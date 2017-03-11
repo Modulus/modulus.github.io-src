@@ -8,7 +8,13 @@ This guide explains how to use the AWS environment for the "From Batches to pipe
 Click the corresponding guide to se how to use the environment.
 
 ## Here are user guides for macOS and Microsoft Windows
-Plattform | Guide
-----------|------------------------------------
-macOS     | [macOs guide]({filename}/mac/index.md)
-Windows   | [Windows guide]({filename}/win/index.md)
+Plattform     | Guide
+--------------|------------------------------------
+macOS / Linux | [macOs guide]({filename}/mac/index.md)
+Windows       | [Windows guide]({filename}/win/index.md)
+
+
+## Here are the workshop guides
+Tool            | Guide
+----------------|-------------------------------
+Workshop guide  | [Workshop guide]({filename}/workshop/index.md)

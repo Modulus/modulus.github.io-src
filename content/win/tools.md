@@ -12,10 +12,10 @@ You need to be able to ssh into the machine you have been given access to, given
 the ip address, username and password that has been provided to you.
 
 # Recommended tools for Windows plattform
-Tool    |  Description
---------|------------------------------------------------
-Putty   | Great open source ssh/telnet client for Windows
-WinSCP  | Award winning SFTP, SCP and FTP(s) client for windows
+Tool    |  Description                                          | Guide
+--------|-------------------------------------------------------|------------
+Putty   | Great open source ssh/telnet client for Windows       |  [How to use putty]({filename}/win/putty.md)
+WinSCP  | Award winning SFTP, SCP and FTP(s) client for windows |  [How to use putty]({filename}/win/winscp.md)
 
 * [Download Putty](http://www.putty.org/)
 * [Download WinSCP](https://winscp.net/eng/index.php)

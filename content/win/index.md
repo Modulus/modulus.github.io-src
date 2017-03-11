@@ -1,17 +1,27 @@
-Title: Environment setup for Microsoft Windows (Part1)
-Date: 2017-02-20 20:52
+Title: Tools for Windows (Part 1)
+Date: 2017-02-20 20:32
 Category: Windows
-tags: main, windows, list, index
-Slug: windows
-Summary: Main Windows guide page
+Tags: tools, putty, winscp, Windows
+Slug: windows-tools-index
+Summary: List of handy tools for Windows users
 
-This guide is for windows users. The following list will give you instructions
-on how to install required software to access your ec2 node. If you have preferred
-tools available, please feel free to use these.
+Below are some of the recommended tools needed to complete this workshop.
+If you have some preferred tools, please feel free to use these.
 
-* [List of tools]({filename}/win/tools.md)
-* [How to use putty]({filename}/win/putty.md)
-* [How to use winscp]({filename}/win/winscp.md)
+You need to be able to ssh into the machine you have been given access to, given
+the ip address, username and password that has been provided to you.
+
+# Recommended tools for Windows plattform
+Tool    |  Description                                          | Guide                                           | Download      
+--------|-------------------------------------------------------|-----------------------------------------------------------------------------------
+Putty   | Great open source ssh/telnet client for Windows       |  [How to use putty]({filename}/win/putty.md)    | [Download Putty](http://www.putty.org/)
+WinSCP  | Award winning SFTP, SCP and FTP(s) client for windows |  [How to use WinSCP]({filename}/win/winscp.md)  | [Download WinSCP](https://winscp.net/eng/index.php)
+
+* [Download Putty](http://www.putty.org/)
+* [Download WinSCP](https://winscp.net/eng/index.php)
 
 
-[Home]({filename}/index.md)
+[Home]({filename}/index.md) |
+[Home win]({filename}/win/index.md) |
+[How to use putty]({filename}/win/putty.md) |
+[How to use winscp]({filename}/win/winscp.md)

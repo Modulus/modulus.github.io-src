@@ -1,16 +1,24 @@
-Title: Environment setup for macOS (Part 1)
-Date: 2017-02-22 20:52
+Title: Tools for macOS (Part 1)
+Date: 2017-02-20 20:32
 Category: Windows
-tags: main, mac, macOS, list, index
-Slug: mac_index
-Summary: Main Mac Guide
+Tags: tools, mac, ssh, editing
+Slug: mac-tools-index
+Summary: List of handy tools for Mac users
 
-This guide is for windows users. The following list will give you instructions
-on how to install required software to access your ec2 node. If you have preferred
-tools available, please feel free to use these.
+We will use the commandline for macOS. You do not need to download anything here, you should
+already have all the tools needed installed.
 
-* [List of tools]({filename}/mac/tools.md)
-* [How to use ssh]({filename}/mac/ssh.md)
-* [How to use nano]({filename}/mac/nano.md)
+If you know how to access remote machines with ssh and edit files with nano, vim
+or similar. Please feel free to use the tools you are comfortable with.
 
-[Home]({filename}/index.md)
+# Recommended tools
+
+Tool    |  Description                            | Guide
+--------|-----------------------------------------|---------------------------
+SSH     | Tools for accessing remote machines     |  [How to use ssh]({filename}/mac/ssh_screenshots.md)
+Nano    | Simple commandline editor               |  [How to use nano]({filename}/mac/nano.md)
+
+[Home]({filename}/index.md) |
+[Home Mac]({filename}/mac/index.md) |
+[How to use ssh]({filename}/mac/ssh_screenshots.md) |
+[How to use nano]({filename}/mac/nano.md) |
