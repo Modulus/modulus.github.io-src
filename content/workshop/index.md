@@ -1,12 +1,51 @@
 Title: Workshop guide
 Date: 2017-03-11 12:26
 Category: Workshop
-Tags: workshop, docker, docker-compose, compose, python, jupyter, kafkacat
+Tags: workshop, docker, docker-compose, compose, python, jupyter, kafkacat, ssh
 Slug: workshop-index
 Summary: Workshop guide, here we show you how to use docker-compse, jupyter and kafkacat
 
-Here kjeme nåko graie, berre vent
+Here is a guide on how to start consuming tweets with kafka. We have created a setup for you using docker-compose
 
+#*1. Open two terminal windows and ssh into your machine*
+
+* [SSH Guide for mac]({filename}/mac/ssh_screenshots.md)
+* [SSH Guide for Windows]({filename}/win/putty.md)
+
+#*2. Change directory to you workshop folder*
+![Workshop folder](/images/workshop/workshop_folder.png)
+
+#*3. run "docker-compose up"*
+![Docker compose up](/images/workshop/docker-compose_up.png)
+
+#*4. Wait for the output to stop, it should look like this*
+![Kafka wait](/images/workshop/kafka-wait.png)
+
+#*5. Change to your second window and run the following*
+![kafkacat](/images/workshop/kafkacat.png)
+
+##*You should se output from kafka like this*
+![kafka-twitter](/images/workshop/kafkacat-twitter.png)
+
+#*6. Go to the docker-comopse window, and scroll up*
+![Jupyter access](/images/workshop/jupyter.png)
+*You are looking for the jupyter access url*
+
+#*7. Open a browers window and enter the url*
+![addres](/images/workshop/jupyter-address.png)
+*Replace "localhost" with the ip address you have on you note*
+
+#*8. You will get a warning like this*
+![warning https](/images/workshop/jupyter-warning.png)
+
+#*9. Click advanced and accept the self signed sertificate*
+![Accept](/images/workshop/jupyter-accept.png)
+
+#*10. You are now logged in to jupyter*
+![Jupyter](/images/workshop/jupyter-loggedin.png)
+
+#*11. More info coming soon....*
+Please be patient...
 
 [Home]({filename}/index.md) |
 [Home win]({filename}/win/index.md) |
