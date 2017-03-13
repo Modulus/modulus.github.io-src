@@ -57,6 +57,9 @@ Here is a guide on how to start consuming tweets with kafka. We have created a s
 #*14. After a short while, you should se an output similar to this*
 ![Jupyter1](/images/workshop/kafka-notebook4.png)
 
+#*You are now done*
+That concludes the workshop guide
+
 [Home]({filename}/index.md) |
 [Home win]({filename}/win/index.md) |
 [How to use putty]({filename}/win/putty.md) |
