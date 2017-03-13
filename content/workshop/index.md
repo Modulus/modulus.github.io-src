@@ -1,9 +1,9 @@
 Title: Workshop guide
 Date: 2017-03-11 12:26
 Category: Workshop
-Tags: workshop, docker, docker-compose, compose, python, jupyter, kafkacat, ssh
+Tags: workshop, docker-compse, jupyter
 Slug: workshop-index
-Summary: Workshop guide, here we show you how to use docker-compse, jupyter and kafkacat
+Summary: Workshop guide, here we show you how to use docker-compse, jupyter
 
 Here is a guide on how to start consuming tweets with kafka. We have created a setup for you using docker-compose
 
@@ -42,10 +42,20 @@ Here is a guide on how to start consuming tweets with kafka. We have created a s
 ![Accept](/images/workshop/jupyter-accept.png)
 
 #*10. You are now logged in to jupyter*
-![Jupyter](/images/workshop/jupyter-loggedin.png)
+![Jupyter](/images/workshop/Jupyter_logged_in2.png)
 
-#*11. More info coming soon....*
-Please be patient...
+#*11. Choose the notebook you want to run*
+![Jupyter1](/images/workshop/kafka-notebook1.png)
+
+#*12. Click "Cell" and then "Run all" to run the whole notebook*
+![Jupyter1](/images/workshop/kafka-notebook2.png)
+
+#*13. If you scroll down, you will shortly see the output*
+![Jupyter1](/images/workshop/kafka-notebook3.png)
+*This could take a few minutes, please be patient*
+
+#*14. After a short while, you should se an output similar to this*
+![Jupyter1](/images/workshop/kafka-notebook4.png)
 
 [Home]({filename}/index.md) |
 [Home win]({filename}/win/index.md) |

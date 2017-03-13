@@ -1,7 +1,7 @@
-Title: Tools for macOS 
+Title: Tools for macOS
 Date: 2017-02-20 20:32
 Category: Windows
-Tags: tools, mac, ssh, editing
+Tags: tools, mac, ssh
 Slug: mac-tools-index
 Summary: List of handy tools for Mac users
 
