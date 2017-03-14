@@ -16,18 +16,13 @@ Summary: Guide for putty on Windows
 ![Putty username](/images/win/putty-login.png)
 *Use the username you have been provided*
 
-##*3. Enter your password*
+##*3. Enter your password and press [Enter]*
 **Your password will not be shown in the prompt when you enter it!**
 
 ![Putty password](/images/win/putty-password.png)
 *User the password you have been provided*
 
-
-##*4. Press [Enter]*
-
-![Putty login](/images/win/putty-login.png)
-
-##*5. You are now logged in and ready for the workshop*
+##*4. You are now logged in and ready for the workshop*
 
 ![Putty login success](/images/win/putty-login-success.png)
 
