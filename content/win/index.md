@@ -20,6 +20,8 @@ WinSCP  | Award winning SFTP, SCP and FTP(s) client for windows |  [How to use W
 * [Download Putty](http://www.putty.org/)
 * [Download WinSCP](https://winscp.net/eng/index.php)
 
+## You could use nano to edit files on the linux instance
+More on this here: [nano]({filename}/mac/nano.md)
 
 [Home]({filename}/index.md) |
 [Home win]({filename}/win/index.md) |

@@ -1,4 +1,4 @@
-Title: Environment setup for macOS
+Title: nano
 Date: 2017-02-22 20:52
 Category: macOS
 Tags: nano, mac, macOS,tools
