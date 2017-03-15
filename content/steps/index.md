@@ -3,7 +3,7 @@ Date: 2017-03-15 23:30
 Category: Guide
 Tags: Guide, steps
 Slug: guide_steps
-Summary: List of handy tools for Mac users
+Summary: This is a step by step guide on using kafka, streaming data from twitter, using jupyter and then lastly the web app for showing data from twitter
 
 Here are some step by step guides which is following the slides for the examples regarding the use of containers.
 
@@ -16,4 +16,4 @@ Stream data  | Stream data from twitter, using kafka    |  [Use stream]({filenam
 Notebook!    | Using the jupyter notebook               |  [Notebook]({filename}/steps/notebook.md)
 Web app      | Python web app with angular for live data|  [Webapp]({filename}/steps/web.md)
 
-[Home](/) 
+[Home](/)
