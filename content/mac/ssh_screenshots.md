@@ -25,5 +25,5 @@ Summary: SSH usage guide for macOS plattform
 
 
 
-[Home]({filename}/index.md)|
+[Home](/)|
 [Home Mac]({filename}/mac/index.md)

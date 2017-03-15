@@ -1,4 +1,4 @@
-Title: How to use WinSCP 
+Title: How to use WinSCP
 Date: 2017-02-21 22:52
 Category: Windows
 Tags: tools, putty, winscp, Windows
@@ -65,5 +65,5 @@ machine and overwrite the corresponding file there.
 You are now done :)
 
 
-[Home]({filename}/index.md) |
+[Home](/) |
 [Home win]({filename}/win/index.md)

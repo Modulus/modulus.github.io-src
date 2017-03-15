@@ -23,7 +23,7 @@ WinSCP  | Award winning SFTP, SCP and FTP(s) client for windows |  [How to use W
 ## You could use nano to edit files on the linux instance
 More on this here: [nano]({filename}/mac/nano.md)
 
-[Home]({filename}/index.md) |
+[Home](/) |
 [Home win]({filename}/win/index.md) |
 [How to use putty]({filename}/win/putty.md) |
 [How to use winscp]({filename}/win/winscp.md)

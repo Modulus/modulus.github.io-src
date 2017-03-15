@@ -15,6 +15,7 @@ Windows       | [Windows guide]({filename}/win/index.md)
 
 
 ## Here are the workshop guides
-Tool            | Guide
-----------------|-------------------------------
-Workshop guide  | [Workshop guide]({filename}/workshop/index.md)
+Tool              | Guide
+------------------|-------------------------------
+Workshop guide    | [Workshop guide]({filename}/workshop/index.md)
+Step by step guide| [Step by step]({filename}/steps/index.md)

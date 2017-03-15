@@ -60,7 +60,7 @@ Here is a guide on how to start consuming tweets with kafka. We have created a s
 #*You are now done*
 This concludes the workshop guide
 
-[Home]({filename}/index.md) |
+[Home](/) |
 [Home win]({filename}/win/index.md) |
 [How to use putty]({filename}/win/putty.md) |
 [How to use winscp]({filename}/win/winscp.md)

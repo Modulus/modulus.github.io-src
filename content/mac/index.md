@@ -18,7 +18,7 @@ Tool    |  Description                            | Guide
 SSH     | Tools for accessing remote machines     |  [How to use ssh]({filename}/mac/ssh_screenshots.md)
 Nano    | Simple commandline editor               |  [How to use nano]({filename}/mac/nano.md)
 
-[Home]({filename}/index.md) |
+[Home](/) |
 [Home Mac]({filename}/mac/index.md) |
 [How to use ssh]({filename}/mac/ssh_screenshots.md) |
 [How to use nano]({filename}/mac/nano.md) |

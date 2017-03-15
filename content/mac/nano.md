@@ -22,5 +22,5 @@ Summary: Guide for nano on mac
 ![nano enter](/images/mac/nano/nano_name.png)
 *If you would like to you could change the name here to save to another file instead*
 
-[Home]({filename}/index.md)|
+[Home](/)|
 [Home Mac]({filename}/mac/index.md)
