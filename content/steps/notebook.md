@@ -16,7 +16,7 @@ Open the first notebook -*Kafka-spark.ipynb*- from the Jupyter interface. The in
 
 #*3. Checkout the second notebook - Kafka-spark-publisher.ipynb*
 ![publisher](/images/steps/notebook/publisher.png)
-Ther second notebook is adapted from the first, and has additional code for publishing back results to a Kafka topic from a stream. Open the second notebook - *Kafka-spark-publisher.ipynb* - and follow the contained instructions. Remember you can check if the topic is being filled using kafkacat (*tip: the topic is called Twitter.processed*)
+The second notebook is adapted from the first, and has additional code for publishing back results to a Kafka topic from a stream. Open the second notebook - *Kafka-spark-publisher.ipynb* - and follow the contained instructions. Remember you can check if the topic is being filled using kafkacat (*tip: the topic is called Twitter.processed*)
 
 
 #*4. Bonus tasks*
