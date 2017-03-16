@@ -27,3 +27,7 @@ Subject                 |  Description                             | Guide
 02 - Consuming Data     | Stream data from twitter, using kafka    |  [Use stream]({filename}/steps/stream.md)
 03 - Data Analysis      | Using the jupyter notebook               |  [Notebook]({filename}/steps/notebook.md)
 04 - Exposing Data      | Python web app with angular for live data|  [Webapp]({filename}/steps/web.md)
+
+
+## If you are done
+Find more tasks here [additional stuff]({filename}/chicken.md)
