@@ -20,4 +20,4 @@ The application can be modified to receive handle this data in a different way. 
 ##Finished!
 That concludes this step by step guide
 
-[Home](/) | [Step by step guide]({filename}/steps/index.md) |
+[Home](/) |

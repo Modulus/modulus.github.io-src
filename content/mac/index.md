@@ -5,7 +5,7 @@ Tags: tools, mac, ssh
 Slug: mac-tools-index
 Summary: List of handy tools for Mac users
 
-We will use the commandline for macOS. You do not need to download anything here, you should
+We will use the command line for macOS. You do not need to download anything here, you should
 already have all the tools needed installed.
 
 If you know how to access remote machines with ssh and edit files with nano, vim
@@ -16,7 +16,7 @@ or similar. Please feel free to use the tools you are comfortable with.
 Tool    |  Description                            | Guide
 --------|-----------------------------------------|---------------------------
 SSH     | Tools for accessing remote machines     |  [How to use ssh]({filename}/mac/ssh_screenshots.md)
-Nano    | Simple commandline editor               |  [How to use nano]({filename}/mac/nano.md)
+Nano    | Simple command line editor              |  [How to use nano]({filename}/mac/nano.md)
 
 [Home](/) |
 [Home Mac]({filename}/mac/index.md) |

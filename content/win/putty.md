@@ -5,14 +5,11 @@ Tags: ssh, putty, Windows, tools
 Slug: win-putty-guide
 Summary: Guide for putty on Windows
 
-#*1. Open putty and enter the ip adress like so*
-
+#*1. Open putty and enter the ip address like so*
 ![Putty Dialog](/images/win/putty-dialog.png)
 *Use the ip address you have been provided*
 
-
 ##*2. Click open, and enter your username*
-
 ![Putty username](/images/win/putty-login.png)
 *Use the username you have been provided*
 
@@ -23,9 +20,6 @@ Summary: Guide for putty on Windows
 *User the password you have been provided*
 
 ##*4. You are now logged in and ready for the workshop*
-
 ![Putty login success](/images/win/putty-login-success.png)
 
-
-[Home](/) |
-[Home Win]({filename}/win/index.md)
+[Home](/) | [Home Win]({filename}/win/index.md)

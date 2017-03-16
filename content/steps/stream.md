@@ -36,6 +36,6 @@ The *WORDS_TO_TRACK* variable will filter the stream for tweets containing any o
 
 #*8. You should see a similiar output like below*
 ![Start kafka and zookeper](/images/steps/stream/kafka_2.png)
-Check the topic using the command *kafkacat -C -b localhost:9092 -t Twitter.live* (the published topic is called Twitter.live). 
+Check the topic using the command *kafkacat -C -b localhost:9092 -t Twitter.live* (the published topic is called Twitter.live).
 
-[Home](/) |  [Step by step guide]({filename}/steps/index.md) | [Next using jupyter]({filename}/steps/notebook.md)
+[Home](/) | [Next using jupyter]({filename}/steps/notebook.md)

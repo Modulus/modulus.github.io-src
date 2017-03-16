@@ -9,7 +9,7 @@ Summary: Start using kafka and test data collection
 
 #*2. In window 1 - start the kafka and zookeeper containers*
 ![Start kafka and zookeper](/images/steps/kafka/kafka1.png)
-This will start the containers. We have written a docker-compose file that makes it easier to get Kafka and Zookeper cooperating. The remaining components of the workshop are also included in the docker-compose file.
+This will start the containers. We have written a docker-compose file that makes it easier to get *Kafka* and *Zookeper* cooperating. The remaining components of the workshop are also included in the docker-compose file.
 
 Take some time to investigate what is included in the docker-compose.yml file if you wish
 
@@ -30,8 +30,8 @@ Press [Enter] between each message you want to send.
 ![Kafkacat1](/images/steps/kafka/kafka5.png)
 You can try keeping both windows open and producing messages between them.
 
-*Hooray, you have just succesfully used Kafka for storing and retrieving messages. Ready for prime time? Click the next tutorial.* 
+*Hooray, you have just succesfully used Kafka for storing and retrieving messages. Ready for prime time? Click the next tutorial.*
 
 
 
-[Home](/) | [Step by step guide]({filename}/steps/index.md) | [Next streaming data]({filename}/steps/stream.md)
+[Home](/) | [Next streaming data]({filename}/steps/stream.md)

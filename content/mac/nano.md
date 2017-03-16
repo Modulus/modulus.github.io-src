@@ -1,9 +1,11 @@
 Title: nano
 Date: 2017-02-22 20:52
 Category: macOS
-Tags: nano, mac, macOS,tools
+Tags: nano, mac, macOS, tools
 Slug: mac_nano_guide
 Summary: Guide for nano on mac
+
+*Remember, if you have tools you prefer, please feel free to used these instead of nano*
 
 #*1. Go to the folder containing the files you want to edit*
 ![folder](/images/mac/nano/folder.png)

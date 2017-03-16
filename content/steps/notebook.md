@@ -25,4 +25,4 @@ The second notebook is adapted from the first, and has additional code for publi
 - What else can we use from the tweet?
 - Is there enough data to plot a map for example? (coordinates or location)
 
-[Home](/) | [Step by step guide]({filename}/steps/index.md) | [Next using the web app]({filename}/steps/web.md)
+[Home](/) | [Next using the web app]({filename}/steps/web.md)
