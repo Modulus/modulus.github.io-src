@@ -6,3 +6,6 @@ Tags: workshop, main, guide
 
 ## Enjoy this picture of a chicken with a hat
 ![cock](/images/stoopid/chicken.gif)
+
+
+[Home](/)
